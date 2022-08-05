@@ -1,0 +1,126 @@
+{
+    "biography": "Start - Magic - End \u2728\n@cretivox | @stitchly.id | @thegisto",
+    "bio_links": [],
+    "biography_with_entities": {
+        "raw_text": "Start - Magic - End \u2728\n@cretivox | @stitchly.id | @thegisto",
+        "entities": [
+            {
+                "user": {
+                    "username": "thegisto"
+                },
+                "hashtag": null
+            },
+            {
+                "user": {
+                    "username": "stitchly.id"
+                },
+                "hashtag": null
+            },
+            {
+                "user": {
+                    "username": "cretivox"
+                },
+                "hashtag": null
+            }
+        ]
+    },
+    "blocked_by_viewer": false,
+    "restricted_by_viewer": false,
+    "country_block": false,
+    "external_url": "https://saweria.co/thegisto",
+    "external_url_linkshimmed": "https://l.instagram.com/?u=https%3A%2F%2Fsaweria.co%2Fthegisto&e=ATNyn1ysV2nhWP5vYyMeKllS6Ox-02oTfDYQcgrGdixD5tGBTO7i8ccX4BansZ2l0k0TrvDsZnmSSK5QBbSOmYE&s=1",
+    "edge_followed_by": {
+        "count": 1216
+    },
+    "fbid": "17841439540821869",
+    "followed_by_viewer": false,
+    "edge_follow": {
+        "count": 1077
+    },
+    "follows_viewer": false,
+    "full_name": "agis",
+    "group_metadata": null,
+    "has_ar_effects": false,
+    "has_clips": true,
+    "has_guides": false,
+    "has_channel": false,
+    "has_blocked_viewer": false,
+    "highlight_reel_count": 0,
+    "has_requested_viewer": false,
+    "hide_like_and_view_counts": false,
+    "id": "39454958027",
+    "is_business_account": false,
+    "is_eligible_to_view_account_transparency": false,
+    "is_professional_account": false,
+    "is_supervision_enabled": false,
+    "is_guardian_of_viewer": false,
+    "is_supervised_by_viewer": false,
+    "is_supervised_user": false,
+    "is_embeds_disabled": false,
+    "is_joined_recently": false,
+    "guardian_id": null,
+    "business_address_json": null,
+    "business_contact_method": "UNKNOWN",
+    "business_email": null,
+    "business_phone_number": null,
+    "business_category_name": null,
+    "overall_category_name": null,
+    "category_enum": null,
+    "category_name": null,
+    "is_private": true,
+    "is_verified": false,
+    "edge_mutual_followed_by": {
+        "count": 1,
+        "edges": [
+            {
+                "node": {
+                    "username": "cretivox"
+                }
+            }
+        ]
+    },
+    "profile_pic_url": "https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-19/283288185_550541970139416_8868229038660748686_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ie3h8_4WCYQAX_iTIC7&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT931_EbBCiLH2DreIfmpj-w38P1QSmNeCbk8PHs7gNdUA&oe=62F2DA7D&_nc_sid=7bff83",
+    "profile_pic_url_hd": "https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-19/283288185_550541970139416_8868229038660748686_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=ie3h8_4WCYQAX_iTIC7&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-sbsyFI_6i1CeQ5alXQcUjaHOtvulBA7KHWmmTDWZ58Q&oe=62F2DA7D&_nc_sid=7bff83",
+    "requested_by_viewer": false,
+    "should_show_category": false,
+    "should_show_public_contacts": false,
+    "state_controlled_media_country": null,
+    "location_transparency_country": null,
+    "transparency_label": null,
+    "transparency_product": "STATE_CONTROLLED_MEDIA",
+    "username": "__localhost05",
+    "connected_fb_page": null,
+    "pronouns": [],
+    "edge_felix_video_timeline": {
+        "count": 8,
+        "page_info": {
+            "has_next_page": false,
+            "end_cursor": ""
+        },
+        "edges": []
+    },
+    "edge_owner_to_timeline_media": {
+        "count": 35,
+        "page_info": {
+            "has_next_page": false,
+            "end_cursor": ""
+        },
+        "edges": []
+    },
+    "edge_saved_media": {
+        "count": 0,
+        "page_info": {
+            "has_next_page": false,
+            "end_cursor": null
+        },
+        "edges": []
+    },
+    "edge_media_collections": {
+        "count": 0,
+        "page_info": {
+            "has_next_page": false,
+            "end_cursor": null
+        },
+        "edges": []
+    }
+}
